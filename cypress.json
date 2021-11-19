@@ -1,0 +1,16 @@
+{
+    "baseUrl": "https://damian-events.coursedog.com/",
+    "env": {
+        "API_URL": "https://dev.coursedog.com"
+    },
+    "video": false,
+    "viewportWidth": 1800,
+    "viewportHeight": 900,
+    "defaultCommandTimeout": 8000,
+    "reporter": "junit",
+    "reporterOptions": {
+      "mochaFile": "results/junit-[hash].xml",
+      "attachments": true
+    }
+}
+

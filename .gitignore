@@ -1,0 +1,11 @@
+
+/node_modules
+/downloads
+/coverage
+/cypress/videos
+/results
+/cypress/screenshots
+/cypress/fixtures
+
+/cypress/plugins
+
